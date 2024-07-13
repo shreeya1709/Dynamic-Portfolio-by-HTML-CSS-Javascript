@@ -1,5 +1,4 @@
 # Dynamic-Portfolio-by-HTML-CSS-Javascript
-# Dynamic Portfolio by HTML, CSS, JavaScript
 
 This project is a dynamic portfolio website built using HTML, CSS, and JavaScript. It aims to showcase your skills, projects, and experience in an interactive and visually appealing manner.
 
